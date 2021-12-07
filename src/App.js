@@ -1,5 +1,5 @@
 
-import './App.css';
+import './Style.css';
 import photo from "./qf.jpg"
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       
       <div style={{border:"solid 1px black",maxWidth:"100vw"}}>
 
-<h1 class="title red">Your name here</h1>
+<h1 class="titlered">Your name here</h1>
 <br/>
 <img src="/ww.jpg" alt="w" />
 <br/>
